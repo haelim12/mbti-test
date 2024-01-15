@@ -28,7 +28,7 @@
 }
 .startLogo div:nth-child(1) {
   background-color: #413730;
-  color: rgb(231, 231, 14);
+  color: yellow;
   width: 100px;
   height: 80px;
   display: flex;
